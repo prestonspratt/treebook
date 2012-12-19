@@ -1,0 +1,11 @@
+jason:
+  first_name: "Jason"
+  last_name: "Seifer"
+  email: "jason@teamtreehouse.com"
+  profile_name: "jasonseifer"
+
+preston:
+  first_name: "Preston"
+  last_name: "Spratt"
+  email: "prestonspratt@gmail.com"
+  profile_name: "prestonspratt"
